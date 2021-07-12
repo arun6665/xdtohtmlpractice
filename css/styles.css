@@ -1,0 +1,320 @@
+.navbar-toggler {
+  position: relative;
+
+}
+
+
+
+
+.navtop {
+  margin-right: 10px;
+}
+
+.navtop>.i>small {
+  font: normal normal medium 14px Inter;
+}
+
+.courseitem h3 {
+  text-align: center;
+  font: normal normal bold 48px Georgia;
+  color: #002147;
+}
+
+
+
+.buttonstyle {
+  top: 469px;
+  left: 375px;
+  width: 181px;
+  height: 54px;
+}
+
+.bannerstyle {
+  background: linear-gradient(to bottom, #F0F4F9 50%, white 50%);
+}
+
+.curvestyle {
+  background-color: #002147;
+  min-height: 200px;
+  border-top-right-radius: 15px;
+  border-top-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+
+
+
+}
+
+.curvestyle h5 {
+  text-align: left;
+  font: normal normal bold 30px Georgia;
+  color: #FFFFFF;
+}
+
+.timer h5 {
+  font: normal normal bold 60px Inter;
+  color: #FFFFFF;
+}
+
+
+.cardwhole {
+
+  overflow: hidden;
+  display: block;
+  height: 100%;
+  white-space: no-wrap;
+  text-overflow: ellipsis;
+}
+
+.cardstyle>h5 {
+  height: 51px;
+  overflow: hidden;
+
+}
+
+.cardimage {
+  position: relative;
+}
+
+.cardsticky {
+  position: absolute;
+  bottom: -20px;
+  left: 10px;
+  width: 64px;
+  height: 64px;
+  border: 4px solid #F0F4F9;
+
+}
+
+.cardtitlestyle {
+
+  text-align: left;
+  font: normal normal bold 20px/24px Inter;
+
+  color: #002147;
+
+}
+
+.cardcontentstyle {
+  font: Inter;
+
+  color: #757575;
+
+}
+
+.bottomcard {
+
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+
+
+
+
+
+
+
+
+.footerstyle>p {
+
+
+
+  color: #FFFFFF;
+  opacity: 1;
+}
+
+.footerstyle a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.footerstyle h3 {
+  font: normal normal bold 20px Inter;
+
+  color: #FFFFFF;
+  opacity: 1;
+}
+
+.try {
+
+  display: flex;
+  flex-direction: row;
+
+  border: 1px solid #BDBDBD;
+  border-radius: 4px;
+  max-width: 590px;
+}
+
+.try input {
+
+
+
+  max-width: 450px;
+  min-height: 56px;
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: hidden;
+
+}
+
+.try i {
+  padding-top: 20px;
+}
+
+.try button {
+
+
+  background-color: #FDC800;
+  height: 46px;
+  margin-top: 5px;
+  margin-right: 5px;
+  min-width: 150px;
+
+  font: normal normal medium 12px Inter;
+}
+
+
+
+
+
+.pricingtop {
+
+
+  height: 36px;
+  width: 144px;
+}
+
+.pricingtop>h4 {
+  text-align: center;
+  font: normal normal bold 16px Inter;
+
+  color: #FFFFFF;
+  text-transform: uppercase;
+  opacity: 1;
+}
+
+.pricingcardstyle {
+  margin-top: 40px;
+}
+
+.pricingcardstyle p {
+  text-align: center;
+  font: light 13px Inter;
+
+
+  color: #BDBDBD;
+  white-space: nowrap;
+
+}
+
+.pricingborder {
+  border: 1px solid #BDBDBD;
+  border-radius: 6px;
+
+}
+
+.topheading {
+  text-align: left;
+  font: normal normal bold 16px Inter;
+  color: #FDC800;
+  padding-top: 79px;
+}
+
+.pricingcardstyle>h1 {
+  text-align: left;
+  font: normal normal bold 60px Georgia;
+
+  color: #002147;
+}
+
+
+.liststyle>li {
+  text-align: left;
+  font: light 16px Inter;
+
+  color: #002147;
+  opacity: 1;
+}
+
+
+.pricingcardstyle>button {
+  background: #002147;
+  width: 98px;
+  height: 54px;
+  border-radius: 4px;
+  opacity: 1;
+  margin-bottom: 25px;
+  text-align: center;
+  font: normal normal medium 16px Inter;
+
+  color: #F0F4F9;
+}
+
+.pricingheader .btngrpstyle {
+  margin-top: -20px;
+}
+
+
+
+.style1 {
+  border-top: 1px solid #8c8b8b;
+}
+
+
+
+
+
+.coursesstyle i {
+  color: #00B2B2;
+}
+
+.listgroup span {
+  font: normal normal bold 16px Helvetica Neue;
+
+}
+
+}
+
+.liststyle i {
+  color: #00B2B2;
+  font-size: 18px;
+}
+
+.categorystyle {
+  text-align: left;
+  font: normal normal bold 20px Inter;
+  color: #002147;
+}
+
+.coursecategorytop {
+  background: linear-gradient(#F0F4F9 0%, #F0F4F9 30%, white 30%);
+}
+
+.dropdownstyle button {
+  width: 270px;
+  height: 44px;
+  font: normal normal medium 16px Inter;
+
+  color: #002147;
+}
+
+.btngrpstyle {
+  border-color: #FDC800;
+  border-radius: 6px;
+  opacity: 1;
+}
+
+.ppcard {
+  min-width: 300px;
+  min-height: 523px;
+  word-wrap: break-word;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+  color: #fff;
+  background-color: #00B2B2;
+}

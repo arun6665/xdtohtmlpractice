@@ -1,0 +1,853 @@
+@media (min-width:1199px) {
+
+  .navitemstyle {
+    padding-left: 265px;
+
+  }
+
+  .li1 {
+    padding-left: 15px;
+    padding-right: 23px;
+    text-align: center;
+    font: normal normal bold 16px/21px Inter;
+    letter-spacing: 0px;
+    color: #002147;
+    opacity: 1;
+
+
+  }
+
+  .li2 {
+    padding-left: 50px;
+
+  }
+
+  .li3 {
+    padding-left: 10px;
+  }
+
+  .imagebadge {
+    width: 64px;
+    height: 64px;
+    position: absolute;
+    top: 140px;
+    left: 20px;
+  }
+
+  .herostyle {
+    padding-top: 120px;
+    padding-bottom: 50px;
+  }
+
+  .imagestyle {
+    padding-top: 70px;
+    justify-content: end;
+  }
+
+  .figcapstyle {
+
+    min-width: 400px;
+    height: 77px;
+    top: 385px;
+    left: 70px;
+    align-items: center;
+    background-color: white;
+    box-shadow: 0px 4px 43px #00000008;
+    border-radius: 6px;
+    text-align: center;
+    font: normal normal bold 20px Inter;
+    color: #212529;
+    opacity: 1;
+
+
+  }
+
+  .feedbackcol h3 {
+    text-align: left;
+    font: normal normal bold 48px Georgia;
+    letter-spacing: 0px;
+    color: #002147;
+    opacity: 1;
+  }
+
+  .herostyle h3 {
+    size: 30px;
+    font-family: 'Inter', sans-serif;
+  }
+
+  .herostyle h1 {
+    font-family: Georgia;
+    size: 30px;
+  }
+
+  .information {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background: url(images/) repeat;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  .information h1 {
+    text-align: center;
+    font: normal normal bold 60px Georgia;
+    color: #002147;
+
+  }
+
+  .information h5 {
+    text-align: center;
+    font: normal normal bold 16px Inter;
+    color: #00B2B2;
+
+  }
+
+
+
+  .subscribe p {
+    color: #FDC800;
+    text-align: left;
+    font: normal normal bold 16px Inter;
+  }
+
+  .imgsubscribe {
+    justify-content: right;
+  }
+
+  .subscribe p {
+    color: #FDC800;
+    font: normal normal bold 16px Inter;
+  }
+
+  .subscribe h3 {
+    font: normal normal bold 48px Georgia;
+    color: #002147;
+  }
+
+  .subscribeheading {
+    padding-top: 100px;
+  }
+
+  .feedbackcolcard {
+    min-width: 511px;
+    height: 97px;
+    padding-left: 50px;
+    margin-left: 40px;
+  }
+
+
+  .pricingheader h3 {
+    text-align: left;
+    font: normal normal bold 48px Georgia;
+    letter-spacing: 0px;
+    color: #002147;
+    opacity: 1;
+  }
+
+  .pricingimage {
+    height: 555px;
+  }
+
+  .listboxsize {
+    min-width: 368px;
+    min-height: 56px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+  }
+
+  .listimg {
+    height: 180px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+  }
+
+  .listcard {
+    border: 1px solid #BDBDBD;
+    border-radius: 6px;
+    min-width: 370px;
+    height: 555px;
+  }
+
+  .coursesstyle h3 {
+    text-align: left;
+    font: normal normal bold 36px Georgia;
+    line-height: 20px;
+    color: #002147;
+
+  }
+
+  .coursesstyle>p {
+    text-align: left;
+    font: 16 normal normal Inter;
+
+    letter-spacing: 0px;
+    color: #212529;
+
+  }
+
+  .courseheading {
+    font: 36px Georgia;
+    color: #002147;
+  }
+
+}
+
+
+
+@media (min-width:990px) and (max-width:1198px) {
+  .herostyle {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .imagestyle {
+    padding-top: 50px;
+  }
+
+  .navitemstyle {
+    padding-left: 50px;
+
+  }
+
+  .li1 {
+    padding-left: 15px;
+    padding-right: 23px;
+    text-align: center;
+    font: normal normal bold 16px/21px Inter;
+    letter-spacing: 0px;
+    color: #002147;
+    opacity: 1;
+
+
+  }
+
+  .li2 {
+    padding-left: 50px;
+
+  }
+
+  .li3 {
+    padding-left: 10px;
+  }
+
+
+  .herostyle h3 {
+    size: 30px;
+    font-family: 'Inter', sans-serif;
+  }
+
+  .herostyle h1 {
+    font-family: Georgia;
+    size: 30px;
+  }
+
+  .information {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background: url(images/) repeat;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  .information h1 {
+    text-align: center;
+    font: normal normal bold 60px/60px Georgia;
+    color: #002147;
+
+  }
+
+  .information h5 {
+    text-align: center;
+    font: normal normal bold 16px/24px Inter;
+    color: #00B2B2;
+
+  }
+
+
+
+
+  .subscribe p {
+    color: #FDC800;
+    text-align: left;
+    font: normal normal bold 16px Inter;
+  }
+
+  .imgsubscribe {
+    justify-content: right;
+  }
+
+  .subscribe p {
+    color: #FDC800;
+    font: normal normal bold 16px Inter;
+  }
+
+  .subscribe h3 {
+    font: normal normal bold 48px Georgia;
+    color: #002147;
+  }
+
+  .subscribeheading {
+    padding-top: 100px;
+  }
+
+  .feedbackcolcard {
+    min-width: 400px;
+    min-height: 97px;
+    padding-left: 50px;
+    margin-left: 40px;
+    margin-top: 0px;
+  }
+
+
+  .pricingheader h3 {
+    text-align: left;
+    font: normal normal bold 48px Georgia;
+    letter-spacing: 0px;
+    color: #002147;
+    opacity: 1;
+  }
+
+  .pricingimage {
+    height: 500px;
+  }
+
+  .listimg {
+    height: 180px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+  }
+
+  .coursesstyle h3 {
+    text-align: left;
+    font: normal normal bold 36px Georgia;
+    line-height: 20px;
+    color: #002147;
+
+  }
+
+  .coursesstyle>p {
+    text-align: left;
+    font: 16 normal normal Inter;
+
+    letter-spacing: 0px;
+    color: #212529;
+
+  }
+
+  .courseheading {
+    font: 36px Georgia;
+    color: #002147;
+  }
+
+}
+
+
+
+
+
+@media (min-width:1240px) {
+
+  .container,
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .container-xl {
+    max-width: 1194px;
+  }
+
+}
+
+@media (max-width:991px) {
+
+  .test {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+
+
+}
+
+
+
+
+@media (max-width:1199px) {
+  .figcapstyle {
+
+    min-width: 200px;
+    height: 77px;
+    top: 300px;
+    left: 120px;
+    align-items: center;
+    background-color: white;
+    box-shadow: 0px 4px 43px #00000008;
+    border-radius: 6px;
+
+    font: normal normal bold 20px Inter;
+    color: #212529;
+    opacity: 1;
+    position: absolute;
+
+  }
+
+  .feedbackcol h3 {
+    text-align: left;
+    font: normal normal bold 38px Georgia;
+    letter-spacing: 0px;
+    color: #002147;
+    opacity: 1;
+  }
+
+  .feedbackcol p {
+    text-align: left;
+  }
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 575px) {
+
+
+
+  .footeralign h3 {
+    text-align: center !important;
+  }
+
+  .footeralign p {
+    text-align: center !important;
+  }
+
+
+  .topstyle i {
+    text-align: center;
+  }
+
+  .herostyle h3 {
+    size: 10px;
+    font-family: 'Inter', sans-serif;
+    padding-bottom: 15px;
+    text-align: center;
+  }
+
+  .herostyle h1 {
+    font-family: Georgia;
+    size: 20px;
+    text-align: center;
+    padding-bottom: 10px;
+  }
+
+
+  .imagestyle {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-top: 30px;
+    padding-bottom: 10px;
+  }
+
+  .test {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  .herostyle {
+
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 50px;
+
+  }
+
+  .topstyle {
+
+    text-align: center;
+  }
+
+  .curvestyle {
+    background-color: #002147;
+
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+
+
+
+  }
+
+  .curvestyle img {
+    max-height: 100px;
+  }
+
+  .curvestyle h5 {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .courseitem h3 {
+    text-align: center;
+    font: normal normal bold 25px Georgia;
+    color: #002147;
+  }
+
+  .information {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background: url(images/) repeat;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  .information h1 {
+    text-align: center;
+    font: normal normal bold 40px Georgia;
+    color: #002147;
+
+  }
+
+  .information h5 {
+    text-align: center;
+    font: normal normal bold 20px Inter;
+    color: #00B2B2;
+
+  }
+
+  .feedbackcol h3 {
+    padding-top: 15px;
+    text-align: center;
+    font: normal normal bold 25px Georgia;
+    letter-spacing: 0px;
+    color: #002147;
+    opacity: 1;
+  }
+
+  .feedbackcol p {
+    text-align: center;
+  }
+
+
+
+  .subscribe p {
+    color: #FDC800;
+    text-align: left;
+    font: normal normal bold 13px Inter;
+  }
+
+  .imgsubscribe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .subscribe p {
+    padding-top: ;
+    color: #FDC800;
+    font: normal normal bold 16px Inter;
+    text-align: center;
+  }
+
+  .subscribe h3 {
+    font: normal normal bold 30px Georgia;
+    color: #002147;
+    text-align: center;
+  }
+
+  .subscribeheading {
+    padding-top: 30px;
+  }
+
+  .feedbackcolcard {
+    min-width: 111px;
+    height: 97px;
+    padding-left: 50px;
+    margin-left: 40px;
+    padding-bottom: 100px;
+
+  }
+
+  .pricingheader h3 {
+    text-align: center;
+    font: normal normal bold 25px Georgia;
+
+    color: #002147;
+    opacity: 1;
+  }
+
+  .pricingimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 200px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+  }
+
+  .pricingheader .card {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+
+    padding-top: 30px;
+    padding-bottom: 10px;
+  }
+
+  .copyright {
+    text-align: center;
+  }
+
+  .listimg {
+    height: 180px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+  }
+
+  .coursesstyle h3 {
+    text-align: center;
+    font: normal normal bold 30px Georgia;
+    line-height: 0px;
+    color: #002147;
+    padding-bottom: 3px;
+
+  }
+
+  .coursesstyle>p {
+    text-align: center;
+    font: 12 normal normal Inter;
+
+    letter-spacing: 0px;
+    color: #212529;
+
+  }
+
+  .topheading {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+  .courseheading1 {
+    font: 24px Georgia;
+    color: #002147;
+    padding-bottom: 10px;
+  }
+}
+
+
+
+
+@media screen and (min-width:576px) and (max-width: 991px) {
+
+  .topstyle i {
+    text-align: center;
+  }
+
+  .herostyle h3 {
+    size: 15px;
+    font-family: 'Inter', sans-serif;
+    padding-bottom: 15px;
+    text-align: center;
+  }
+
+  .herostyle h1 {
+    font-family: Georgia;
+    size: 10px;
+    text-align: center;
+    padding-bottom: 10px;
+  }
+
+  .imagestyle {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-top: 30px;
+    padding-bottom: 10px;
+  }
+
+  .test {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  .herostyle {
+
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+
+  }
+
+  .figcapstyle {
+
+    min-width: 200px;
+    height: 77px;
+    top: 250px;
+    left: 100px;
+    align-items: center;
+    background-color: white;
+    box-shadow: 0px 4px 43px #00000008;
+    border-radius: 6px;
+
+    font: normal normal bold 20px Inter;
+    color: #212529;
+    opacity: 1;
+    position: absolute;
+
+  }
+
+  .topstyle {
+
+    text-align: center;
+  }
+
+  .curvestyle {
+    background-color: #002147;
+
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+
+
+
+  }
+
+  .curvestyle img {
+    max-height: 90px;
+  }
+
+  .curvestyle h5 {
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .courseitem h3 {
+    text-align: center;
+    font: normal normal bold 35px Georgia;
+    color: #002147;
+  }
+
+  .information {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background: url(images/) repeat;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  .information h1 {
+    text-align: center;
+    font: normal normal bold 60px Georgia;
+    color: #002147;
+
+  }
+
+  .information h5 {
+    text-align: center;
+    font: normal normal bold 16px Inter;
+    color: #00B2B2;
+
+  }
+
+
+  .subscribe p {
+    color: #FDC800;
+    text-align: left;
+    font: normal normal bold 16px Inter;
+  }
+
+  .imgsubscribe {
+    justify-content: center;
+  }
+
+  .subscribe p {
+    color: #FDC800;
+    font: normal normal bold 16px Inter;
+  }
+
+  .subscribe h3 {
+    font: normal normal bold 48px Georgia;
+    color: #002147;
+
+  }
+
+  .subscribeheading {
+    padding-top: 100px;
+  }
+
+  .feedbackcolcard {
+    min-width: 270px;
+    height: 100px;
+    padding-left: 40px;
+    margin-left: 50px;
+
+
+
+  }
+
+
+  .pricingheader h3 {
+    text-align: left;
+    font: normal normal bold 40px Georgia;
+    letter-spacing: 0px;
+    color: #002147;
+    opacity: 1;
+  }
+
+  .pricingimage {
+    height: 300px;
+    padding-bottom: 10px;
+  }
+
+  .listimg {
+    height: 180px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+  }
+
+  .coursesstyle h3 {
+    text-align: left;
+    font: normal normal bold 36px Georgia;
+    line-height: 20px;
+    color: #002147;
+
+  }
+}
