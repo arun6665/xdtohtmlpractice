@@ -3,9 +3,6 @@
 
 }
 
-
-
-
 .navtop {
   margin-right: 10px;
 }
@@ -34,7 +31,7 @@
 }
 
 .curvestyle {
-  background-color: #002147;
+  background-color: red;
   min-height: 200px;
   border-top-right-radius: 15px;
   border-top-left-radius: 15px;
@@ -84,11 +81,11 @@
   height: 64px;
   border: 4px solid #F0F4F9;
 
-}
 
+}
 .cardtitlestyle {
 
-  text-align: left;
+  text-align: center;
   font: normal normal bold 20px/24px Inter;
 
   color: #002147;
@@ -97,7 +94,7 @@
 
 .cardcontentstyle {
   font: Inter;
-
+  text-align: center;
   color: #757575;
 
 }
@@ -116,11 +113,7 @@
 
 
 
-
 .footerstyle>p {
-
-
-
   color: #FFFFFF;
   opacity: 1;
 }
@@ -167,7 +160,7 @@
 .try button {
 
 
-  background-color: #FDC800;
+  background-color:#8c8b8b;
   height: 46px;
   margin-top: 5px;
   margin-right: 5px;
@@ -318,3 +311,4 @@
   color: #fff;
   background-color: #00B2B2;
 }
+
